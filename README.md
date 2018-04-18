@@ -1,5 +1,5 @@
-# feature_selection-R
-"[Canonical Correlation Analysis](https://en.wikipedia.org/wiki/Canonical_correlation#cite_note-1)" is a way of inferring information from cross-covariance matrices.
+# A comparative study of filter methods based on information entropy
+
 ## 1. Filter
 * [IG(Information Gain)](https://en.wikipedia.org/wiki/Information_gain_ratio).
 * SU(Symmetrical Uncertainty).
